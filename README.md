@@ -1,3 +1,8 @@
+> **Archived (2026-11-25).** This research reproduction is no longer
+> maintained and is read-only. See the mithril-lang repository policy,
+> `docs/operations/repository-policy.md` in mithril-lang/mithril-fund
+> (Item 369). Final commit before archiving: `e65215db7e554a31f557936f0bd1d8a0a78b6af5`.
+
 # typed-decisions
 
 **A lightweight reproduction of the Jev shape — one program state, many typed questions
